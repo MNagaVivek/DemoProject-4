@@ -6,3 +6,4 @@ def iseven(n):
 
 n=int(input())
 iseven(n)
+
